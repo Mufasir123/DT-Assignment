@@ -2,14 +2,14 @@
 
 Thansks for give me this opportunity
 
-Setup in other devices 
-1. Open github url
-2.Go to code drop down button 
-3.Download Zip file or copy url and past in terminal
-4.To clone file open file in vs code or any
+Setup Instructions 
+* Open github url
+* Go to code drop down button
+* Download Zip file or copy url and past in terminal
+* To clone file open file in vs code or any
    open terminal write clone space url that you copied
    after clone open index.html by clicking live server
-5.you will redirect to home page.
+* you will redirect to home page.
 
 Lets start with the Navbar
 
